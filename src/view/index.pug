@@ -1,0 +1,12 @@
+doctype html
+html
+  head
+    meta(chaset='utf-8')
+    title 这是模板
+  body
+  - locale = htmlWebpackPlugin.options.locale
+    h1  你说这是什么
+    p  
+      | 哈哈，这是一个人模板，使用了pug
+      | haha, this is a template, using pug.
+    h2  #{locale['hello world']}
