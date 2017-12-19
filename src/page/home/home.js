@@ -1,1 +1,2 @@
-console.log(__('hello world'))
+console.log(__('helloWorld'))
+require('../../view/home.styl')

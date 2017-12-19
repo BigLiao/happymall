@@ -1,0 +1,10 @@
+{
+  "helloWorld": {
+    "en": "Hello world!",
+    "cn": "你好，世界！"
+  },
+  "helloLogin": {
+    "en": "Hello login",
+    "cn": "欢迎登录"
+  }
+}

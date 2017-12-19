@@ -1,1 +1,1 @@
-console.log(__('hello login'))
+console.log(__('helloWorld'))
